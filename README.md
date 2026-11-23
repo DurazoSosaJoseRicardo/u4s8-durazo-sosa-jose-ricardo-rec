@@ -1,5 +1,5 @@
 <!-- título del repo: cambia por tus nombres reales -->
-# U4S8 — [Apellido Paterno] [Apellido Materno] [Nombre(s)]
+# U4S8 — Durazo Sosa Jose Ricardo
 
 <!-- sección con la URL pública de Render -->
 ## Demo en vivo (producción)
